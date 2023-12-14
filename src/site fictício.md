@@ -1,6 +1,6 @@
 ### Cod html
 
-<! <!DOCTYPE html>
+<!DOCTYPE html>
 
 -<html lang="pt-br">
 
@@ -37,7 +37,7 @@
     </main>
 
 </body>
-</html> ->
+</html> 
 
 ### Cod css
 
